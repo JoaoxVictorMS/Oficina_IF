@@ -163,7 +163,7 @@ Este é um projeto acadêmico e ainda não está adequado para produção ou par
 
 <h2 id="colab">🤝 Colaboradores</h2>
 
-<p>Um agradecimento especial a quem contribuiu para este projeto.</p>
+Um agradecimento especial a todas as pessoas que contribuíram para este projeto.
 
 <table>
   <tr>
@@ -172,6 +172,22 @@ Este é um projeto acadêmico e ainda não está adequado para produção ou par
         <img src="https://avatars.githubusercontent.com/u/98715957?v=4" width="100px;" alt="Foto de perfil do João Victor"/><br>
         <sub>
           <b>João Victor</b>
+        </sub>
+      </a>
+    </td>
+      <td align="center">
+      <a href="https://github.com/FernandessFelipe">
+        <img src="https://avatars.githubusercontent.com/u/181539218?v=4" width="100px;" alt="Foto de perfil do João Victor"/><br>
+        <sub>
+          <b>Felipe Fernandes</b>
+        </sub>
+      </a>
+    </td>
+      <td align="center">
+      <a href="https://github.com/guumendess">
+        <img src="https://avatars.githubusercontent.com/u/133999103?v=4" width="100px;" alt="Foto de perfil do João Victor"/><br>
+        <sub>
+          <b>Gustavo Mendes</b>
         </sub>
       </a>
     </td>
