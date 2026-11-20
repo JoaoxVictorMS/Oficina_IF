@@ -1,0 +1,10 @@
+.vs/
+.vscode/
+**/bin/
+**/obj/
+**/*.user
+**/*.suo
+*.log
+*.tmp
+Oficina_IF/MySql.Data.dll
+Oficina_IF/mysql-connector-net-8.1.0-noinstall.zip

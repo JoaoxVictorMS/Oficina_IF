@@ -19,7 +19,7 @@ namespace Oficina_IF
         public Menu()
         {
             InitializeComponent();
-            conexao = new MySqlConnection("server=localhost;User Id=root;database=Oficina;password=");     
+            conexao = new MySqlConnection();
         }
 
         private void Menu_Load(object sender, EventArgs e)
@@ -140,7 +140,7 @@ namespace Oficina_IF
         {
             try
             {
-                string strConn = "server=localhost;User Id=root;database=Oficina;password=";
+                string strConn = DatabaseConnection.GetConnectionString();
                 conexao = new MySqlConnection(strConn);
                 conexao.Open();
                 MessageBox.Show("Conectado ao banco de dados");

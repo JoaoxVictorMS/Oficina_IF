@@ -24,7 +24,7 @@ namespace Oficina_IF
         
         private void btnSubmeter_Click(object sender, EventArgs e)
         {
-            string strConn = "server=localhost;User Id=root;database=Oficina;password=";
+            string strConn = DatabaseConnection.GetConnectionString();
             MySqlConnection conexao = new MySqlConnection(strConn);
             try
             {

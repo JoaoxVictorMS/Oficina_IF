@@ -18,7 +18,7 @@ namespace Oficina_IF
         public RegistroVenda(MySqlConnection conexao)
         {
             InitializeComponent();
-            conexao = new MySqlConnection("server=localhost;User Id=root;database=Oficina;password=");
+            conexao = new MySqlConnection(DatabaseConnection.GetConnectionString());
             this.conexao = conexao;
         }
 

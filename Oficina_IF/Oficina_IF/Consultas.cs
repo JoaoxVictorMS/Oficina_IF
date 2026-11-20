@@ -23,7 +23,7 @@ namespace Oficina_IF
         private void btnListaServicos_Click(object sender, EventArgs e)
         {
             dataGridServicos.Rows.Clear();
-            string strConn = "server=localhost;User Id=root;database=Oficina;password=";
+            string strConn = DatabaseConnection.GetConnectionString();
             MySqlConnection conexao = new MySqlConnection(strConn);
 
             try
@@ -64,7 +64,7 @@ namespace Oficina_IF
         private void btnListaClientes_Click(object sender, EventArgs e)
         {
             dataGridClientes.Rows.Clear();
-            string strConn = "server=localhost;User Id=root;database=Oficina;password=";
+            string strConn = DatabaseConnection.GetConnectionString();
             MySqlConnection conexao = new MySqlConnection(strConn);
 
             try
@@ -104,7 +104,7 @@ namespace Oficina_IF
         private void btnListaUsuarios_Click(object sender, EventArgs e)
         {
             dataGridUsuario.Rows.Clear();
-            string strConn = "server=localhost;User Id=root;database=Oficina;password=";
+            string strConn = DatabaseConnection.GetConnectionString();
             MySqlConnection conexao = new MySqlConnection(strConn);
 
             try
@@ -144,7 +144,7 @@ namespace Oficina_IF
         private void btnListaVendas_Click(object sender, EventArgs e)
         {
             dataGridVenda.Rows.Clear();
-            string strConn = "server=localhost;User Id=root;database=Oficina;password=";
+            string strConn = DatabaseConnection.GetConnectionString();
             MySqlConnection conexao = new MySqlConnection(strConn);
 
             try

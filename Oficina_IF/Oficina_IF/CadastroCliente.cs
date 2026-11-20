@@ -34,7 +34,7 @@ namespace Oficina_IF
         {
             
 
-            string strConn = "server=localhost;User Id=root;database=Oficina;password=";
+            string strConn = DatabaseConnection.GetConnectionString();
             MySqlConnection conexao = new MySqlConnection(strConn);
             try
             {
