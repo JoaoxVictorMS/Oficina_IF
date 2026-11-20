@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    Projeto acadêmico desenvolvido para a disciplina de Linguagens de Programação do curso de Análise e Desenvolvimento de Sistemas do IFSP.
+    Projeto acadêmico desenvolvido para a disciplina de Linguagens de Programação do curso de Análise e Desenvolvimento de Sistemas do IFSP. Uma aplicação desktop para gerenciamento de oficinas
 </p>
 
 <h2 id="layout">🎨 Layout/Preview</h2>
