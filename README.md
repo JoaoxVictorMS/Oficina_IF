@@ -25,9 +25,41 @@
 <h2 id="layout">🎨 Layout/Preview</h2>
 
 <p align="center">
-    <img src="" alt="Prévia da tela inicial" width="400px">
-    <img src="" alt="Prévia das telas do sistema" width="400px">
+    Telas de boas-vindas, menu, cadastros e consultas do sistema.
 </p>
+
+<table>
+    <tr>
+        <td align="center" width="50%">
+            <strong>Boas-vindas</strong><br><br>
+            <img src="./m_project/img_1.png" alt="Tela de boas-vindas" width="460">
+        </td>
+        <td align="center" width="50%">
+            <strong>Menu principal</strong><br><br>
+            <img src="./m_project/menu_v.png" alt="Menu principal do sistema" width="460">
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="50%">
+            <strong>Cadastro de clientes</strong><br><br>
+            <img src="./m_project/cad_cli.png" alt="Tela de cadastro de clientes" width="460">
+        </td>
+        <td align="center" width="50%">
+            <strong>Cadastro de serviços</strong><br><br>
+            <img src="./m_project/cad_serv.png" alt="Tela de cadastro de serviços" width="460">
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="50%">
+            <strong>Cadastro de usuários</strong><br><br>
+            <img src="./m_project/cad_user.png" alt="Tela de cadastro de usuários" width="460">
+        </td>
+        <td align="center" width="50%">
+            <strong>Consultas</strong><br><br>
+            <img src="./m_project/consultas.png" alt="Tela de consultas de clientes, serviços, usuários e vendas" width="460">
+        </td>
+    </tr>
+</table>
 
 <h2 id="tech">💻 Tecnologias</h2>
 
