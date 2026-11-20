@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" role="img" aria-labelledby="title description">
+  <title id="title">Oficina IF</title>
+  <desc id="description">Logotipo da Oficina IF com uma engrenagem e uma chave combinadas em um emblema azul-marinho e dourado.</desc>
+  <defs>
+    <linearGradient id="badge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#203b5b"/>
+      <stop offset="1" stop-color="#122238"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd36a"/>
+      <stop offset="1" stop-color="#f2a928"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="28" y="28" width="264" height="264" rx="58" fill="url(#badge)"/>
+
+  <g fill="none" stroke="url(#gold)" stroke-linecap="round">
+    <circle cx="160" cy="160" r="72" stroke-width="19"/>
+    <path d="M160 53v25M160 242v25M53 160h25M242 160h25M84.3 84.3l17.7 17.7M218 218l17.7 17.7M235.7 84.3L218 102M102 218l-17.7 17.7" stroke-width="19"/>
+  </g>
+
+  <circle cx="160" cy="160" r="48" fill="url(#badge)"/>
+  <path
+    d="M180.7 112.9a36 36 0 0 0-43.4 45.7l-40.8 40.8a15 15 0 0 0 21.2 21.2l40.8-40.8a36 36 0 0 0 45.7-43.4l-23.4 23.4-24-24z"
+    fill="#fff"
+    stroke="#fff"
+    stroke-linejoin="round"
+    stroke-width="5"
+  />
+  <circle cx="101" cy="210" r="4" fill="#f3b43c"/>
+
+  <text x="342" y="158" fill="#17283e" font-family="Segoe UI, Arial, sans-serif" font-size="75" font-weight="800" letter-spacing="2">OFICINA</text>
+  <text x="345" y="225" fill="#6a7788" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="600" letter-spacing="7">GESTÃO PARA OFICINAS</text>
+  <rect x="345" y="248" width="116" height="7" rx="3.5" fill="url(#gold)"/>
+  <text x="700" y="169" fill="#eaa72e" font-family="Segoe UI, Arial, sans-serif" font-size="90" font-weight="800" letter-spacing="1">IF</text>
+</svg>

@@ -1,7 +1,7 @@
 <h1 align="center" style="font-weight: bold;">Oficina IF</h1>
 
 <p align="center">
-    <b>Aplicativo desktop para gerenciamento de clientes, serviços e vendas de uma oficina.</b>
+    <img src="./assets/oficina-if-logo.svg" alt="Logo da Oficina IF" width="400px">
 </p>
 
 [DOTNET__BADGE]: https://img.shields.io/badge/.NET_Framework-4.7.2-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
